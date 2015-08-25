@@ -1,8 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 The cat ate the mouse!
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The dog ate the cat!
 
 How can you use the staging area to make sure you have one commit per logical
 change?
