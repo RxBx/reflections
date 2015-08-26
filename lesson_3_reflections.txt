@@ -7,8 +7,8 @@ The parying mantis ate the panda!
 Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 The fish ate the dog!
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The rat ate the cat!
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
