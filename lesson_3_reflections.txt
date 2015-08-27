@@ -13,5 +13,5 @@ The rat ate the cat!
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 The snake ate the seal!
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+The fox ate the ham!
